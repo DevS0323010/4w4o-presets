@@ -37,6 +37,10 @@ Check the [main repository](https://github.com/DevS0323010/4w4o-python) for more
 
 To add a new preset:
 
-1. Create a JSON file in `presets/`
-2. Add it to the "Preset Examples" section
-3. Submit a pull request
+1. Create a JSON file in `presets/`.
+2. Write the JSON data using the GUI editor or by modifying the code directly.
+3. Submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
